@@ -1,0 +1,7 @@
+- raw-from-source
+  - 2018 Precinct-level election results: [Voting and Election Science Team, 2019, "mi_2018.zip", 2018 Precinct-Level Election Results, https://doi.org/10.7910/DVN/UBKYRU/RMROP4, Harvard Dataverse, V20](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/RMROP4&version=20.0) -- file `mi_2018.zip`
+- file-processing
+  - PGP final shapefiles on [OpenPrecincts](https://openprecincts.org/mi/) -- file `output_mi.zip`
+  - Processing and validation steps -- file `pgp-mi`
+  - More detailed [writeup](https://docs.google.com/document/d/13otar2DtXzIoCCM6M3IkJxlY6sZiIPwEcAD-7vlyrDE/edit)
+- final-file (shapefile with data dictionary)
