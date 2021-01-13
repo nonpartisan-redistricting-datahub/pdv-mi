@@ -33,19 +33,9 @@ Select a state (upper and lower chamber): Michigan
 2016 precinct-level presidential election data: MIT Elections Data and Science Lab
 MGGG Link: https://electionlab.mit.edu/
 
-Direct data set link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LYWX3D 
+Direct data set link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LYWX3D
 
-file: 2016-precinct-president.csv for presidential election
-
-MIT Election Data and Science Lab, 2018 Code Book 
-https://doi.org/10.7910/DVN/GSZG1O
-
-files: 2016-precinct-president.tab
-codebook-2016-precinct-president.md
-
-Describes dataset on precinct-level returns for elections to president
-Records in dataset give number of votes reported from a precinct for a candidate
-Updated 8/2/2018
+file: 2016-precinct-president.csv for 2016 presidential election precinct-level results
 
 **File Processing:**
 
