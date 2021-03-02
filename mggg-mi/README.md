@@ -47,8 +47,9 @@ file: `2016-precinct-president.csv` for 2016 presidential election precinct-leve
 
 MGGG File: https://github.com/mggg-states/MI-shapefiles
 
-Processing and Validation Steps: `mggg_mi_replication_for_report.ipynb`
-(`mggg_mi_replication.ipynb` was the first draft before writing the report)
+Processing and Validation Steps (most current): `mggg_mi_replication_for_report_upd_20210224.ipynb`
+- `mggg_mi_replication.ipynb` was the first draft before writing the report
+- `mggg_mi_replication_for_report.ipynb` was the second draft after the report, but before MGGG fixed their demographic data errors
 
 Note / Methodology: Comments on `mggg_mi_replication_for_report.ipynb`
 
