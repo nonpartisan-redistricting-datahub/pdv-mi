@@ -2,7 +2,11 @@
 
 Partner data validation for Michigan, 2016. Data Partners: VEST.
 
-### _Attention: Validation is still in progress as of 5/19/21, this work is not complete._
+Our final validation report for this dataset is available here [here](https://redistrictingdatahub.org/dataset/vest-2016-michigan-precinct-and-election-results/).
+
+We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed.
+
+Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions.
 
 ---
 
@@ -11,8 +15,8 @@ Partner data validation for Michigan, 2016. Data Partners: VEST.
 ### Accessible Files
 
 - File: VEST MI 2016
-   - Date accessed: 3/29/2021
-   - Link: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/4KOZRU&version=54.0
+   - Date accessed: 7/02/2021
+   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4868607&version=62.0
    - Source: Harvard Dataverse
    - File name: `mi_2016.zip` (available upon request)
 - File: VEST MI 2016 Documentation
