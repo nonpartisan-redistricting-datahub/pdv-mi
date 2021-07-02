@@ -39,5 +39,5 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## Validation
 
-Script: `mi_vest_2016.ipynb` - documentation in comments and markdown cells
+Script: `vest_mi_2016.ipynb` - documentation in comments and markdown cells
 
