@@ -34,5 +34,3 @@ Final report can be viewed [here](https://redistrictingdatahub.org/dataset/mggg-
 ## pgp-mi
 
 RDH's partner data validation for PGP's MI file.
-
-Final report can be viewed [here](https://redistrictingdatahub.org/dataset/pgp-michigan-precincts-and-election-results/).
