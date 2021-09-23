@@ -6,6 +6,12 @@ We do not have the raw data sources available on this Github due to file constra
 
 Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions. 
 
+## vest-mi-2020
+
+RDH's partner data validation for VEST's 2020 MI file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4863165&version=20.0).
+
+Final report can be viewed [here](https://redistrictingdatahub.org/dataset/vest-2020-michigan-precinct-boundaries-and-election-results-shapefile/).
+
 ## vest-mi-2018
 
 RDH's partner data validation for VEST's 2018 MI file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4596579&version=36.0).
@@ -13,8 +19,6 @@ RDH's partner data validation for VEST's 2018 MI file. VEST's raw file is availa
 Final report can be viewed [here](https://redistrictingdatahub.org/dataset/vest-2018-michigan-precinct-and-election-results/).
 
 ## vest-mi-2016
-
-#### _IN PROGRESS AS OF 5/19/21_
 
 RDH's partner data validation for VEST's 2016 MI file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/4KOZRU&version=56.0).
 
@@ -29,4 +33,6 @@ Final report can be viewed [here](https://redistrictingdatahub.org/dataset/mggg-
 
 ## pgp-mi
 
-#### _IN PROGRESS AS OF 5/19/21_
+RDH's partner data validation for PGP's MI file.
+
+Final report can be viewed [here](https://redistrictingdatahub.org/dataset/pgp-michigan-precincts-and-election-results/).
