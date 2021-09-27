@@ -8,24 +8,31 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## Raw from source:
 
-- File: VEST OH 2020 file
-   - Date accessed: 5/26/2021
-   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4499012&version=5.0
-   - File: `oh_2020.zip`
+- File: VEST MI 2020 file
+   - Date accessed: 07/26/2021
+   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4863165&version=20.0
 - File: VEST documentation file, 2020
-   - Date accessed: 5/26/2021
-   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4499010&version=5.0
-   - File: `documentation.txt`
+   - Date accessed: 07/26/2021
+   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4931790&version=20.0
 - File: Election Results, SOS 2020
-   - Date accessed: 5/26/2021
-   - Link: https://www.sos.state.oh.us/elections/election-results-and-data/2020/
-   - File: `statewideresultsbyprecinct.xlsx` (available upon request)
-   - Note: selected "Results by Precinct (XLSX)" under "Court of Appeals"
+   - Date accessed: 07/26/2021
+   - Link: https://miboecfr.nictusa.com/cgi-bin/cfr/precinct_srch.cgi
+   - Note: Make sure you have "All Counties" selected, click "Search" and then click "HERE".
 - File: Precinct Shapefile, 2020 
    - Date accessed: 5/26/2021
-   - Link: https://www2.census.gov/geo/tiger/TIGER2020PL/STATE/39_OHIO/39/
-   - File: `tl_2020_39_vtd20.zip` (available upon request)
-   - Note: VEST refers to their precinct shapefile source as 'the U.S. Census Bureau's 2020 Redistricting Data Program final release'. We believe this is the 2020 TIGER/Line VTD file. 
+   - Link: https://gis-michigan.opendata.arcgis.com/datasets/49eb37d0a4294924bf8ef5ffe0eac47e_6/explore
+   - Note: There is a download button on the left side of the screen.
+- File: AVCB Mapping 
+   - Date accessed: 08/23/2021
+   - Link: https://github.com/openelections/openelections-sources-mi/blob/master/2020/Detroit%20AVCBs%20by%20precinct%20(Nov.%202020).xlsx
+- File: Census Geocodes, 2020 
+   - Date accessed: 08/23/2021
+   - Link: https://www.census.gov/geographies/reference-files/2020/demo/popest/2020-fips.html
+- File: MI County Shapefile
+   - Date accessed: 09/27/2021
+   - Link: https://gis-michigan.opendata.arcgis.com/datasets/67a8ff23b5f54f15b7133b8c30981441/explore?location=44.916500%2C-86.594000%2C6.81
+   - Note: Didn't use the precinct shapefile for this, because VEST mentions that that file does not always split precincts across counties correctly.
+
 
 ## File processing:
 
