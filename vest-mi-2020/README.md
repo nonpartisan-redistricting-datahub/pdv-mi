@@ -19,7 +19,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
    - Link: https://miboecfr.nictusa.com/cgi-bin/cfr/precinct_srch.cgi
    - Note: Make sure you have "All Counties" selected, click "Search" and then click "HERE".
 - File: Precinct Shapefile, 2020 
-   - Date accessed: 5/26/2021
+   - Date accessed: 07/23/2021
    - Link: https://gis-michigan.opendata.arcgis.com/datasets/49eb37d0a4294924bf8ef5ffe0eac47e_6/explore
    - Note: There is a download button on the left side of the screen.
 - File: AVCB Mapping 
