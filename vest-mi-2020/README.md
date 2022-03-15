@@ -9,10 +9,10 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 ## Raw from source:
 
 - File: VEST MI 2020 file
-   - Date accessed: 07/26/2021
+   - Date accessed: 03/15/2022
    - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4863165&version=20.0
 - File: VEST documentation file, 2020
-   - Date accessed: 07/26/2021
+   - Date accessed: 03/15/2022
    - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4931790&version=20.0
 - File: Election Results, SOS 2020
    - Date accessed: 07/26/2021
